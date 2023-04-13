@@ -1,8 +1,6 @@
 <h1> Hey there, I'm Volkan 👋 </h1>
 
 - 🌱 I’m currently learning Android Development.
-- 💬 I'm looking forward to contribute to Open Source Projects.
-- ⚡ Fun fact: Did you know? You can make my day with giving ⭐ to my Repositories.
 
 <h3 align="left">Languages:</h3>
 <p align="left">
