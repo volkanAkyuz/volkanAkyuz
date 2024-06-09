@@ -1,6 +1,6 @@
 <h1> Hey there, I'm Volkan 👋 </h1>
 
-- 🌱 I’m currently learning Android Development.
+- 🌱 I'm currently interested in embedded systems.
 
 <h3 align="left">Languages:</h3>
 <p align="left">
