@@ -11,7 +11,7 @@
 <ul align="left" style="list-style-position: inside; padding-left: 0;">
   <li>Interested in Web Development</li>
   <li>Enjoy working with databases & SQL</li>
-  <li>• Experience with ERP systems (Workcube)</li>  
+  <li>Experience with ERP systems (Workcube)</li>  
 </ul>
 
 <hr/>
